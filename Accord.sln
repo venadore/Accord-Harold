@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accord", "Accord.csproj", "{BB6CBC4D-9859-45A7-BE88-AD792EE67F9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccordRestart", "..\AccordRestart\AccordRestart.csproj", "{03301E89-AA93-482F-93F1-FDF2673C57C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccordUpdate", "AccordUpdate\AccordUpdate.csproj", "{03DF9E07-F933-4E59-8A16-090F23C305FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB6CBC4D-9859-45A7-BE88-AD792EE67F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB6CBC4D-9859-45A7-BE88-AD792EE67F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB6CBC4D-9859-45A7-BE88-AD792EE67F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB6CBC4D-9859-45A7-BE88-AD792EE67F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03301E89-AA93-482F-93F1-FDF2673C57C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03301E89-AA93-482F-93F1-FDF2673C57C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03301E89-AA93-482F-93F1-FDF2673C57C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03301E89-AA93-482F-93F1-FDF2673C57C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03DF9E07-F933-4E59-8A16-090F23C305FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03DF9E07-F933-4E59-8A16-090F23C305FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03DF9E07-F933-4E59-8A16-090F23C305FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03DF9E07-F933-4E59-8A16-090F23C305FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
